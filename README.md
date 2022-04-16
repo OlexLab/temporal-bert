@@ -1,7 +1,7 @@
 # temporal-bert
 A collection of temporally fine-tuned BERT and Clinical BERT models, and associated code, designed for performing temporal type disambiguation.
 
-The models in this repository were temporally fine-tuned on 2 types of temporal tasks: binary temporal sentence classification and multi-label temporal type classification. Fine-tuning and other details are described in Amy Olex's dissertation titled "Temporal disambiguation of relative temporal expressions in clinical texts using temporally fine-tuned contextual word embeddings." <reference to be added>
+The models in this repository were temporally fine-tuned on 2 types of temporal tasks: binary temporal sentence classification and multi-label temporal type classification. Fine-tuning and other details are described in Amy Olex's dissertation titled "Temporal disambiguation of relative temporal expressions in clinical texts using temporally fine-tuned contextual word embeddings." REFERENCE TO BE ADDED UPON GRADUATION
   
   All BertBase models are initilized from the original "bert-base-uncased" model described in Devlin et.al. All ClinBioBert models were initilized from the BERT model fine-tuned on biomedical literature and clinical notes by Alsentzer et.al.
   
