@@ -5,6 +5,8 @@ The models in this repository were temporally fine-tuned on 2 types of temporal 
   
   All BertBase models are initilized from the original "bert-base-uncased" model described in Devlin et.al. All ClinBioBert models were initilized from the BERT model fine-tuned on biomedical literature and clinical notes by Alsentzer et.al.
   
+  Models can be downloaded from: https://drive.google.com/drive/u/0/folders/1z6MKRdDddgrPY7xZ3bPraulkJNO5txm6
+  
 ## References:
   - Devlin J, Chang M-W, Lee K et al. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers). Minneapolis, Minnesota: Association for Computational Linguistics, 2019, 4171–86.
 
